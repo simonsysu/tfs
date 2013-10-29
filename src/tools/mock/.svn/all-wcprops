@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tfs/!svn/ver/1660/trunk/src/tools/mock
+END
+tfs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/tools/mock/tfs.conf
+END
+mock_data_server_instance.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1414/trunk/src/tools/mock/mock_data_server_instance.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/tools/mock/Makefile.am
+END
+mock_data_server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1414/trunk/src/tools/mock/mock_data_server.cpp
+END
+mock_data_server_instance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1660/trunk/src/tools/mock/mock_data_server_instance.cpp
+END

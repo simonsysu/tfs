@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/1606/trunk/src/tools/cluster
+END
+sync_by_blk.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1605/trunk/src/tools/cluster/sync_by_blk.cpp
+END
+check_disk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/check_disk.sh
+END
+get_diff_block.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/get_diff_block.cpp
+END
+start_sync_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/start_sync_log.sh
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/sync.sh
+END
+sync_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1552/trunk/src/tools/cluster/sync_by_file.cpp
+END
+sync_file_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1606/trunk/src/tools/cluster/sync_file_base.cpp
+END
+sync_by_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1552/trunk/src/tools/cluster/sync_by_log.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1552/trunk/src/tools/cluster/Makefile.am
+END
+blocktool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/blocktool.cpp
+END
+sync_file_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1511/trunk/src/tools/cluster/sync_file_base.h
+END
+ReadMe
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/ReadMe
+END
+sync_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/tools/cluster/sync_log.cpp
+END
+transfer_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1392/trunk/src/tools/cluster/transfer_by_file.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tfs/!svn/ver/1381/trunk/tests/new_client
+END
+test_gc_worker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/tests/new_client/test_gc_worker.cpp
+END
+test_local_key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/tests/new_client/test_local_key.cpp
+END
+test_lru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1315/trunk/tests/new_client/test_lru.cpp
+END
+test_ns_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/tests/new_client/test_ns_cache.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1381/trunk/tests/new_client/Makefile.am
+END
+test_rc_save_fetch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1381/trunk/tests/new_client/test_rc_save_fetch.cpp
+END
+test_path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/tests/new_client/test_path.cpp
+END

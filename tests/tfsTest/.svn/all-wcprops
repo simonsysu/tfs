@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/.classpath
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/compile.sh
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/pom.xml
+END
+exec.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/exec.sh
+END

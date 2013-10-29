@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient
+END
+run-test-info.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/run-test-info.php
+END
+php_tfs_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/php_tfs_client.cpp
+END
+config.m4
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/config.m4
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/INSTALL
+END
+php_tfs_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/php_tfs_client.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/build.sh
+END
+php_tfs_client.spec
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/php_tfs_client.spec
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/README
+END
+Makefile.opt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/phpclient/Makefile.opt
+END

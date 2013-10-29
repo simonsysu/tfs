@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tfs/!svn/ver/1716/trunk/tests/batch
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tfs/!svn/ver/1315/trunk/tests/batch/util.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1605/trunk/tests/batch/Makefile.am
+END
+test_batch_write.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1716/trunk/tests/batch/test_batch_write.cpp
+END
+test_batch_read.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1716/trunk/tests/batch/test_batch_read.cpp
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/tests/batch/thread.h
+END
+test_batch_mix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1716/trunk/tests/batch/test_batch_mix.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/tests/batch/util.cpp
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/2158/trunk/src/tools/nameserver
+END
+performance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/performance.cpp
+END
+showssm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1660/trunk/src/tools/nameserver/showssm.cpp
+END
+sync_by_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/sync_by_file.cpp
+END
+cmp_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/cmp_factory.cpp
+END
+repair_block_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1605/trunk/src/tools/nameserver/repair_block_info.cpp
+END
+show_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1660/trunk/src/tools/nameserver/show_factory.cpp
+END
+stat_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1876/trunk/src/tools/nameserver/stat_tool.cpp
+END
+cmp_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/cmp_factory.h
+END
+rmsyncoplog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/rmsyncoplog.cpp
+END
+show_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1605/trunk/src/tools/nameserver/show_factory.h
+END
+stat_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1876/trunk/src/tools/nameserver/stat_tool.h
+END
+showsyncoplog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/showsyncoplog.cpp
+END
+stat_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1876/trunk/src/tools/nameserver/stat_main.cpp
+END
+show.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/show.cpp
+END
+read_syncoplog_header.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/read_syncoplog_header.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1335/trunk/src/tools/nameserver/main.cpp
+END
+show.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/show.h
+END
+remote_block_cache_tool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/1876/trunk/src/tools/nameserver/remote_block_cache_tool.cpp
+END
+metacmp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/metacmp.cpp
+END
+admintool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1660/trunk/src/tools/nameserver/admintool.cpp
+END
+common.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1660/trunk/src/tools/nameserver/common.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1876/trunk/src/tools/nameserver/Makefile.am
+END
+tfstool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2158/trunk/src/tools/nameserver/tfstool.cpp
+END
+metacmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/tools/nameserver/metacmp.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1660/trunk/src/tools/nameserver/common.h
+END

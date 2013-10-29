@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tfs/!svn/ver/1721/trunk/src/rootserver
+END
+rootserver.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/rootserver.h
+END
+service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/service.cpp
+END
+build_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1721/trunk/src/rootserver/build_table.cpp
+END
+meta_server_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1605/trunk/src/rootserver/meta_server_manager.cpp
+END
+root_server_heart_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1605/trunk/src/rootserver/root_server_heart_manager.cpp
+END
+global_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/global_factory.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/Makefile.am
+END
+rootserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1721/trunk/src/rootserver/rootserver.cpp
+END
+build_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/build_table.h
+END
+meta_server_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/meta_server_manager.h
+END
+root_server_heart_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/root_server_heart_manager.h
+END
+global_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/rootserver/global_factory.h
+END

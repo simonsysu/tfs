@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver
+END
+sync_nginx2kv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/sync_nginx2kv.cpp
+END
+txt2newmeta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/txt2newmeta.cpp
+END
+check_old_new.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/check_old_new.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/Makefile.am
+END
+go_tair_for_kv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/go_tair_for_kv.cpp
+END
+dump_appid_uid.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/dump_appid_uid.sh
+END
+trans_meta.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2158/trunk/src/tools/metaserver/trans_meta.cpp
+END

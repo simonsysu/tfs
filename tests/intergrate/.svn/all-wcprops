@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate
+END
+tfs_block_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_block_cache.h
+END
+tfs_ioapi_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_ioapi_util.h
+END
+rc_api_cases.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/rc_api_cases.h
+END
+tfs_ioapi_cases.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_ioapi_cases.h
+END
+tfs_large_file_cases.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_large_file_cases.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/Makefile.am
+END
+tfs_large_file_cases.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_large_file_cases.h
+END
+tfs_block_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_block_cache.cpp
+END
+tfs_ioapi_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_ioapi_util.cpp
+END
+rc_api_cases.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/rc_api_cases.cpp
+END
+tfs_client_test_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_client_test_c.c
+END
+tfs_client_test_cxx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_client_test_cxx.cpp
+END
+tfs_ioapi_cases.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/tests/intergrate/tfs_ioapi_cases.cpp
+END

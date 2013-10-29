@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/tfs/!svn/ver/1636/trunk/sql/ns
+END
+create_family.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1636/trunk/sql/ns/create_family.sql
+END
+del_family.sql
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1607/trunk/sql/ns/del_family.sql
+END
+seq_simulator.sql
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1636/trunk/sql/ns/seq_simulator.sql
+END
+create_table.sql
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1607/trunk/sql/ns/create_table.sql
+END

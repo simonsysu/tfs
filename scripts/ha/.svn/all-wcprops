@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/tfs/!svn/ver/1605/trunk/scripts/ha
+END
+ha.cf
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/ha.cf
+END
+ns.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/ns.xml
+END
+nsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/nsdep.sh
+END
+rs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/1414/trunk/scripts/ha/rs.xml
+END
+deploy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/deploy.sh
+END
+authkeys.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/authkeys.sh
+END
+rsdep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/rsdep.sh
+END
+NameServer
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1605/trunk/scripts/ha/NameServer
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/Makefile.am
+END
+RootServer
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/1315/trunk/scripts/ha/RootServer
+END

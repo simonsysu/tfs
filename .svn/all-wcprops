@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/tfs/!svn/ver/2158/trunk
+END
+ax_lib_mysql.m4
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tfs/!svn/ver/1315/trunk/ax_lib_mysql.m4
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/2158/trunk/configure.ac
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/tfs/!svn/ver/1315/trunk/ChangeLog
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/tfs/!svn/ver/1315/trunk/build.sh
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/tfs/!svn/ver/1315/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tfs/!svn/ver/1605/trunk/Makefile.am
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/tfs/!svn/ver/1315/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/tfs/!svn/ver/1315/trunk/README
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1315/trunk/CONTRIBUTORS
+END
+tcmalloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tfs/!svn/ver/1605/trunk/tcmalloc.m4
+END

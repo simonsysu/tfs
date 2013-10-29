@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server
+END
+test_split_key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_split_key.cpp
+END
+test_meta_info_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_meta_info_helper.h
+END
+test_kvengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_kvengine.cpp
+END
+test_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_object.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/Makefile.am
+END
+test_kvengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_kvengine.h
+END
+test_bucket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/tests/kv_meta_server/test_bucket.cpp
+END

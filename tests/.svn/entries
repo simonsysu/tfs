@@ -1,0 +1,104 @@
+10
+
+dir
+2186
+http://code.taobao.org/svn/tfs/trunk/tests
+http://code.taobao.org/svn/tfs
+
+
+
+2013-04-08T03:58:57.675579Z
+2158
+mingyan.zc@taobao.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b722c2b5-6a69-4643-bcd1-1a75825fa998
+
+batch
+dir
+
+phpclient
+dir
+
+new_client
+dir
+
+common
+dir
+
+TestFrame
+dir
+
+rcserver
+dir
+
+tfsTest
+dir
+
+dataserver
+dir
+
+intergrate
+dir
+
+nameserver
+dir
+
+Makefile.am
+file
+
+
+
+
+2013-04-15T06:52:59.418852Z
+d7e12723f7e66d883a6d62736d304c29
+2013-04-08T03:58:57.675579Z
+2158
+mingyan.zc@taobao.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+124
+
+tfsControlPress
+dir
+
+rootserver
+dir
+
+name_meta_server
+dir
+
+kv_meta_server
+dir
+

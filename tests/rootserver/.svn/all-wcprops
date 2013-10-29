@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tfs/!svn/ver/1315/trunk/tests/rootserver
+END
+meta_server_manger_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1315/trunk/tests/rootserver/meta_server_manger_test.cpp
+END
+build_table_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1315/trunk/tests/rootserver/build_table_test.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1315/trunk/tests/rootserver/Makefile.am
+END

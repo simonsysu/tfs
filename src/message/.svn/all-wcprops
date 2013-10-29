@@ -1,0 +1,437 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/tfs/!svn/ver/2158/trunk/src/message
+END
+rts_ms_heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/message/rts_ms_heart_message.cpp
+END
+rollback_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/message/rollback_message.h
+END
+reload_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/message/reload_message.cpp
+END
+message_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/2158/trunk/src/message/message_factory.cpp
+END
+kv_rts_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2158/trunk/src/message/kv_rts_message.cpp
+END
+create_filename_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1315/trunk/src/message/create_filename_message.h
+END
+read_data_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1730/trunk/src/message/read_data_message.h
+END
+close_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/message/close_file_message.h
+END
+checkserver_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1417/trunk/src/message/checkserver_message.h
+END
+get_dataserver_information_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/tfs/!svn/ver/1315/trunk/src/message/get_dataserver_information_message.h
+END
+server_status_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1315/trunk/src/message/server_status_message.cpp
+END
+block_info_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1730/trunk/src/message/block_info_message.h
+END
+rc_session_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/message/rc_session_message.h
+END
+resolve_block_version_conflict_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/tfs/!svn/ver/1658/trunk/src/message/resolve_block_version_conflict_message.cpp
+END
+replicate_block_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1650/trunk/src/message/replicate_block_message.cpp
+END
+rts_rts_heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1315/trunk/src/message/rts_rts_heart_message.cpp
+END
+dataserver_task_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1654/trunk/src/message/dataserver_task_message.h
+END
+write_data_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1712/trunk/src/message/write_data_message.h
+END
+rollback_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/message/rollback_message.cpp
+END
+kv_meta_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2158/trunk/src/message/kv_meta_message.h
+END
+update_table_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/update_table_message.h
+END
+rts_ms_heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/rts_ms_heart_message.h
+END
+dataserver_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1677/trunk/src/message/dataserver_message.cpp
+END
+base_task_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1660/trunk/src/message/base_task_message.h
+END
+create_filename_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1315/trunk/src/message/create_filename_message.cpp
+END
+unlink_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1730/trunk/src/message/unlink_file_message.h
+END
+block_info_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1690/trunk/src/message/block_info_message.cpp
+END
+client_cmd_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/message/client_cmd_message.h
+END
+rc_session_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/rc_session_message.cpp
+END
+reload_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1315/trunk/src/message/reload_message.h
+END
+kv_rts_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2158/trunk/src/message/kv_rts_message.h
+END
+crc_error_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/message/crc_error_message.cpp
+END
+write_data_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1712/trunk/src/message/write_data_message.cpp
+END
+replicate_block_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1650/trunk/src/message/replicate_block_message.h
+END
+update_table_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/message/update_table_message.cpp
+END
+file_info_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1696/trunk/src/message/file_info_message.cpp
+END
+family_info_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1676/trunk/src/message/family_info_message.cpp
+END
+unlink_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1707/trunk/src/message/unlink_file_message.cpp
+END
+compact_block_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/1653/trunk/src/message/compact_block_message.cpp
+END
+erasure_code_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1665/trunk/src/message/erasure_code_message.cpp
+END
+client_cmd_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/client_cmd_message.cpp
+END
+dataserver_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1650/trunk/src/message/dataserver_message.h
+END
+rename_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/message/rename_file_message.cpp
+END
+heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1605/trunk/src/message/heart_message.h
+END
+oplog_sync_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/oplog_sync_message.cpp
+END
+meta_nameserver_client_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1315/trunk/src/message/meta_nameserver_client_message.h
+END
+admin_cmd_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/message/admin_cmd_message.h
+END
+get_tables_from_rts_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1315/trunk/src/message/get_tables_from_rts_message.cpp
+END
+dump_plan_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/message/dump_plan_message.h
+END
+crc_error_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/message/crc_error_message.h
+END
+file_info_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1730/trunk/src/message/file_info_message.h
+END
+family_info_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1676/trunk/src/message/family_info_message.h
+END
+heart_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1605/trunk/src/message/heart_message.cpp
+END
+read_data_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1696/trunk/src/message/read_data_message.cpp
+END
+close_file_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/message/close_file_message.cpp
+END
+checkserver_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1417/trunk/src/message/checkserver_message.cpp
+END
+get_dataserver_information_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/tfs/!svn/ver/1315/trunk/src/message/get_dataserver_information_message.cpp
+END
+compact_block_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1658/trunk/src/message/compact_block_message.h
+END
+erasure_code_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1660/trunk/src/message/erasure_code_message.h
+END
+rename_file_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/message/rename_file_message.h
+END
+meta_nameserver_client_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1315/trunk/src/message/meta_nameserver_client_message.cpp
+END
+admin_cmd_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/message/admin_cmd_message.cpp
+END
+message_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2158/trunk/src/message/message_factory.h
+END
+server_status_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/message/server_status_message.h
+END
+dump_plan_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/message/dump_plan_message.cpp
+END
+oplog_sync_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/message/oplog_sync_message.h
+END
+dataserver_task_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1654/trunk/src/message/dataserver_task_message.cpp
+END
+resolve_block_version_conflict_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/tfs/!svn/ver/1658/trunk/src/message/resolve_block_version_conflict_message.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/2158/trunk/src/message/Makefile.am
+END
+kv_meta_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/2158/trunk/src/message/kv_meta_message.cpp
+END
+rts_rts_heart_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/message/rts_rts_heart_message.h
+END
+get_tables_from_rts_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1315/trunk/src/message/get_tables_from_rts_message.h
+END

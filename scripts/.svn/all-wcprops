@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/tfs/!svn/ver/1605/trunk/scripts
+END
+start_sync_log.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/scripts/start_sync_log.sh
+END
+sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tfs/!svn/ver/1315/trunk/scripts/sync.sh
+END
+tfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tfs/!svn/ver/1315/trunk/scripts/tfs.sh
+END
+stfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/tfs/!svn/ver/1315/trunk/scripts/stfs.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1605/trunk/scripts/Makefile.am
+END
+cs_sync.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tfs/!svn/ver/1417/trunk/scripts/cs_sync.sh
+END
+compact_process.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/scripts/compact_process.sh
+END
+download.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1525/trunk/scripts/download.py
+END

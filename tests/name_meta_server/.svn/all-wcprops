@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server
+END
+test_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_service.cpp
+END
+test_meta_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_meta_info.cpp
+END
+test_cache_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_cache_helper.cpp
+END
+test_lru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_lru.cpp
+END
+meta_bucket_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/meta_bucket_test.cpp
+END
+test_service.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_service.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/Makefile.am
+END
+meta_bucket_manager_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/meta_bucket_manager_test.cpp
+END
+test_cache_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/1315/trunk/tests/name_meta_server/test_cache_info.cpp
+END

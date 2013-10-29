@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/tfs/!svn/ver/2158/trunk/conf
+END
+ns.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1315/trunk/conf/ns.conf
+END
+kv_root.conf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/2158/trunk/conf/kv_root.conf
+END
+rc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1315/trunk/conf/rc.conf
+END
+rs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1315/trunk/conf/rs.conf
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/tfs/!svn/ver/1315/trunk/conf/Makefile.am
+END
+cs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1417/trunk/conf/cs.conf
+END
+remote_block_cache_tool.conf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1876/trunk/conf/remote_block_cache_tool.conf
+END
+ds.conf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/tfs/!svn/ver/1315/trunk/conf/ds.conf
+END
+kv_meta.conf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/2158/trunk/conf/kv_meta.conf
+END
+meta.conf
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tfs/!svn/ver/1315/trunk/conf/meta.conf
+END
+ads.conf
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/tfs/!svn/ver/1315/trunk/conf/ads.conf
+END

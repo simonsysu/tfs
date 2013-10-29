@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/tfs/!svn/ver/2158/trunk/src/common
+END
+directory_op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/common/directory_op.cpp
+END
+error_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/2158/trunk/src/common/error_msg.h
+END
+kv_meta_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/2158/trunk/src/common/kv_meta_define.h
+END
+base_packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/2158/trunk/src/common/base_packet.h
+END
+internal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1730/trunk/src/common/internal.cpp
+END
+base_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_main.cpp
+END
+file_queue_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_queue_thread.h
+END
+local_packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/local_packet.h
+END
+rts_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/common/rts_define.h
+END
+file_queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_queue.h
+END
+base_service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_service.cpp
+END
+meta_server_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/2158/trunk/src/common/meta_server_define.h
+END
+mmap_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/src/common/mmap_file.h
+END
+meta_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2158/trunk/src/common/meta_define.cpp
+END
+base_packet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1414/trunk/src/common/base_packet.cpp
+END
+cdefine.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1691/trunk/src/common/cdefine.h
+END
+directory_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/directory_op.h
+END
+client_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1315/trunk/src/common/client_manager.cpp
+END
+base_packet_streamer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_packet_streamer.h
+END
+rc_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1422/trunk/src/common/rc_define.cpp
+END
+session_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1414/trunk/src/common/session_util.cpp
+END
+parameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/2158/trunk/src/common/parameter.cpp
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1315/trunk/src/common/atomic.h
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/2158/trunk/src/common/internal.h
+END
+kv_rts_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2158/trunk/src/common/kv_rts_define.cpp
+END
+array_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1663/trunk/src/common/array_helper.h
+END
+base_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_main.h
+END
+file_queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_queue.cpp
+END
+meta_hash_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/common/meta_hash_helper.cpp
+END
+lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1414/trunk/src/common/lock.cpp
+END
+base_packet_factory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_packet_factory.cpp
+END
+mmap_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1605/trunk/src/common/mmap_file.cpp
+END
+base_service.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_service.h
+END
+define.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1315/trunk/src/common/define.h
+END
+func.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/1892/trunk/src/common/func.h
+END
+base_packet_streamer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_packet_streamer.cpp
+END
+meta_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/2158/trunk/src/common/meta_define.h
+END
+client_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/common/client_manager.h
+END
+file_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_op.h
+END
+rc_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1422/trunk/src/common/rc_define.h
+END
+tfs_vector.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1676/trunk/src/common/tfs_vector.ipp
+END
+session_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/session_util.h
+END
+parameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/2158/trunk/src/common/parameter.h
+END
+kv_rts_define.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2158/trunk/src/common/kv_rts_define.h
+END
+config_item.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/2158/trunk/src/common/config_item.h
+END
+func.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1892/trunk/src/common/func.cpp
+END
+status_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/1315/trunk/src/common/status_message.h
+END
+new_client.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/common/new_client.h
+END
+meta_hash_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1315/trunk/src/common/meta_hash_helper.h
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/tfs/!svn/ver/1414/trunk/src/common/lock.h
+END
+base_packet_factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/common/base_packet_factory.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1315/trunk/src/common/statistics.h
+END
+stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/2158/trunk/src/common/stream.h
+END
+kv_meta_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/2158/trunk/src/common/kv_meta_define.cpp
+END
+file_queue_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_queue_thread.cpp
+END
+file_op.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/src/common/file_op.cpp
+END
+buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/tfs/!svn/ver/1315/trunk/src/common/buffer.h
+END
+serialization.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2158/trunk/src/common/serialization.h
+END
+rts_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1315/trunk/src/common/rts_define.cpp
+END
+tfs_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1676/trunk/src/common/tfs_vector.h
+END
+meta_server_define.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2158/trunk/src/common/meta_server_define.cpp
+END
+status_message.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/tfs/!svn/ver/1315/trunk/src/common/status_message.cpp
+END
+new_client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1605/trunk/src/common/new_client.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/2158/trunk/src/common/Makefile.am
+END
+stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/tfs/!svn/ver/2158/trunk/src/common/stream.cpp
+END

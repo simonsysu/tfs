@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/tfs/!svn/ver/2158/trunk/src/new_client
+END
+tfs_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1391/trunk/src/new_client/tfs_file.h
+END
+tfs_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_session.h
+END
+tfs_meta_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_meta_helper.h
+END
+client_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/client_config.h
+END
+tfs_large_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_large_file.h
+END
+gc_worker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1605/trunk/src/new_client/gc_worker.cpp
+END
+tfs_rc_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_rc_helper.h
+END
+tfs_client_metrics.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_client_metrics.h
+END
+tair_cache_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1730/trunk/src/new_client/tair_cache_helper.h
+END
+tfs_client_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1422/trunk/src/new_client/tfs_client_api.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/md5.h
+END
+tfs_client_capi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_client_capi.h
+END
+tfs_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_file.cpp
+END
+tfs_rc_client_api_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_rc_client_api_impl.h
+END
+tfs_unique_store.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_unique_store.cpp
+END
+tfs_meta_client_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_meta_client_api.h
+END
+tfs_session.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_session.cpp
+END
+tfs_meta_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_meta_helper.cpp
+END
+local_key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/tfs/!svn/ver/1901/trunk/src/new_client/local_key.cpp
+END
+client_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/client_config.cpp
+END
+tfs_large_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_large_file.cpp
+END
+lru.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/lru.h
+END
+segment_container.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/segment_container.h
+END
+tfs_meta_client_api_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_meta_client_api_impl.cpp
+END
+tfs_rc_client_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_rc_client_api.h
+END
+fsname.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1432/trunk/src/new_client/fsname.h
+END
+tfs_rc_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_rc_helper.cpp
+END
+tfs_client_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_client_impl.h
+END
+tair_cache_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1696/trunk/src/new_client/tair_cache_helper.cpp
+END
+tair_unique_handler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tair_unique_handler.cpp
+END
+tfs_client_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1422/trunk/src/new_client/tfs_client_api.cpp
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/md5.cpp
+END
+tfs_kv_meta_client_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_client_impl.h
+END
+gc_worker.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/gc_worker.h
+END
+tfs_small_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_small_file.h
+END
+tfs_meta_client_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_meta_client_api.cpp
+END
+tfs_meta_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_meta_manager.cpp
+END
+encode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/tfs/!svn/ver/1432/trunk/src/new_client/encode.h
+END
+tfs_unique_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_unique_store.h
+END
+tfs_kv_meta_helper.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_helper.h
+END
+tfs_rc_client_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_rc_client_api.cpp
+END
+local_key.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1892/trunk/src/new_client/local_key.h
+END
+fsname.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/tfs/!svn/ver/1432/trunk/src/new_client/fsname.cpp
+END
+bg_task.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/bg_task.cpp
+END
+tfs_client_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_client_impl.cpp
+END
+tfs_meta_client_api_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_meta_client_api_impl.h
+END
+tfs_kv_meta_client_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_client_impl.cpp
+END
+tfs_small_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_small_file.cpp
+END
+tair_unique_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tair_unique_handler.h
+END
+tfs_session_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_session_pool.cpp
+END
+gc_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/1605/trunk/src/new_client/gc_file.cpp
+END
+tfs_cluster_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_cluster_manager.h
+END
+tfs_kv_meta_client_api.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_client_api.h
+END
+tfs_meta_manager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_meta_manager.h
+END
+tfs_kv_meta_helper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_helper.cpp
+END
+unique_handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/unique_handler.h
+END
+bg_task.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/bg_task.h
+END
+tfs_client_capi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_client_capi.cpp
+END
+tfs_cluster_manager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_cluster_manager.cpp
+END
+tfs_rc_client_api_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_rc_client_api_impl.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/Makefile.am
+END
+tfs_kv_meta_client_api.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/tfs/!svn/ver/2158/trunk/src/new_client/tfs_kv_meta_client_api.cpp
+END
+tfs_session_pool.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/tfs_session_pool.h
+END
+gc_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/tfs/!svn/ver/1315/trunk/src/new_client/gc_file.h
+END

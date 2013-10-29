@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/src/test/resources
+END
+deployer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/src/test/resources/deployer.xml
+END
+tfsServer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/src/test/resources/tfsServer.xml
+END
+tfsClient.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/tfs/!svn/ver/1315/trunk/tests/tfsTest/src/test/resources/tfsClient.xml
+END

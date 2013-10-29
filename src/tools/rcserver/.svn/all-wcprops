@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/tfs/!svn/ver/1465/trunk/src/tools/rcserver
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/tfs/!svn/ver/1465/trunk/src/tools/rcserver/Makefile.am
+END
+parse_session_id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/tfs/!svn/ver/1465/trunk/src/tools/rcserver/parse_session_id.cpp
+END
+gene_session_id.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/tfs/!svn/ver/1465/trunk/src/tools/rcserver/gene_session_id.cpp
+END
